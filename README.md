@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a small dev working in QA currently, know how to do automated tests in Selenium C# and a little bit of C#.
-Have just began learning how to program in this year due to corona and having free time, want to learn more about everything, specially C#, C++, C, JavaScript, Python, HTML and CSS.
-I am currently studying physics in college, but due to a new found love of programming, might change courses but let's see how it goes.
+Have just began learning how to program in 2019 due to corona and having free time, want to learn more about everything, specially C#, C++, C, JavaScript, Python, HTML and CSS.
+I am currently studying physics in college, but due to a new found love of programming, might change to Softawere Enginner but let's see how it goes.
 
 - ⚡ Fun fact: I live in Brazil.
 
