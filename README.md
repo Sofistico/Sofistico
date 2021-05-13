@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a small dev working in QA currently, but i'm trying to get a more development focused job.
+I am a small dev working in QA currently, but i'm trying to get a more development focused job.<br/>
 I stared learning how to program in 2019 due to corona and having some free time in my job, so i took to learn C# and fell in love with this world of software and programming.
 I want to learn more about everything, specially C#, C++, C, JavaScript, Python, HTML and CSS.
 I am currently studying physics in college, but due to a new found love of programming, might change to Softawere Enginner but let's see how it goes.
