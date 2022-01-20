@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a small dev working in QA currently, but i'm trying to get a more development focused job.<br/>
+I am a small dev working as a Junior Asp.Net Dev currently.<br/>
 
 I stared learning how to program in 2019 due to corona and having some free time in my job, so i took to learn C# and fell in love with this world of software and programming.<br/>
 
@@ -9,6 +9,7 @@ I am currently studying physics in college, but due to a new found love of progr
 
 Currently i have workable skills in C#, HTML, C++, JavaScript and Python.<br/>
 Have dabbled in CSS, Rust, R and Ruby.
+Know some Asp.Net, Angular and Razor.
 
 - ⚡ Fun fact: I live in Brazil.
 
