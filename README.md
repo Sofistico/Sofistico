@@ -8,7 +8,7 @@ I want to learn more about everything, specially C#, C++, C, JavaScript, Python,
 I am currently studying physics in college, but due to a new found love of programming, might change to Softawere Enginner but let's see how it goes.
 
 Currently i have workable skills in C#, HTML, C++, JavaScript and Python.<br/>
-Have dabbled in CSS, Rust, R and Ruby.
+Have dabbled in CSS, Rust, R and Ruby.<br/>
 Know some Asp.Net, Angular and Razor.
 
 - ⚡ Fun fact: I live in Brazil.
