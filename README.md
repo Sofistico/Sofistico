@@ -17,6 +17,7 @@ Know some Asp.Net, Angular and Razor.
 <br>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofistico&show_icons=true&locale=en&layout=compact" alt="sofistico"/></p>
 <br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sofistico)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
