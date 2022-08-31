@@ -1,14 +1,16 @@
 ### Hi there 👋
-I am a small dev working as a Junior Asp.Net Dev currently.<br/>
+I am a small practioner of the art of thaumaturgy, otherwise know as coding.<br/>
+
+Working as a Junior Asp.Net Dev currently.<br/>
 
 I stared learning how to program in 2019 due to corona and having some free time in my job, so i took to learn C# and fell in love with this world of software and programming.<br/>
 
 I want to learn more about everything, specially C#, C++, C, JavaScript, Python, HTML and CSS.<br/>
 
-I am currently studying physics in college, but due to a new found love of programming, might change to Softawere Enginner but let's see how it goes.
+I was studying physics in college, but due to a new found love of programming, changed to Softawere Enginner and let's still see how it will go.
 
-Currently i have workable skills in C#, HTML, C++, JavaScript and Python.<br/>
-Have dabbled in CSS, Rust, R and Ruby.<br/>
+Currently i know C#, HTML, C++, JavaScript, Python and Rust.<br/>
+Have dabbled in CSS, R and Ruby.<br/>
 Know some Asp.Net, Angular and Razor.
 
 - ⚡ Fun fact: I live in Brazil.
