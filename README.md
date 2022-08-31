@@ -9,7 +9,7 @@ I want to learn more about everything, specially C#, C++, C, JavaScript, Python,
 
 I was studying physics in college, but due to a new found love of programming, changed to Softawere Enginner and let's still see how it will go.
 
-Currently i know C#, HTML, C++, JavaScript, Python and Rust.<br/>
+Currently i know C#(My main focus and love!), HTML, C++, JavaScript, Python and Rust.<br/>
 Have dabbled in CSS, R and Ruby.<br/>
 Know some Asp.Net, Angular and Razor.
 
