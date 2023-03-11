@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a small practioner of the art of thaumaturgy, otherwise know as coding.<br/>
 
-Working as a .Net Developer.<br/>
+I work as a .Net Developer.<br/>
 
 I learned how to program in 2019 due to corona and finally having some free time in my job, so i took to learn C# and fell in love with this world of software and programming.<br/>
 
