@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a small practioner of the art of thaumaturgy, otherwise know as coding.<br/>
+I'm a small practioner of the art of thaumaturgy, otherwise know as coding.<br/>
 
 Working as a .Net Developer.<br/>
 
