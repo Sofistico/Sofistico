@@ -1,19 +1,25 @@
 ### Hi there 👋
 I am a small practioner of the art of thaumaturgy, otherwise know as coding.<br/>
 
-Working as a Junior Asp.Net Dev currently.<br/>
+Working as a .Net Developer.<br/>
 
-I stared learning how to program in 2019 due to corona and having some free time in my job, so i took to learn C# and fell in love with this world of software and programming.<br/>
+I learned how to program in 2019 due to corona and finally having some free time in my job, so i took to learn C# and fell in love with this world of software and programming.<br/>
 
-I want to learn more about everything, specially C#, C++, C, JavaScript, Python, HTML and CSS.<br/>
+if i had a say in what i want to learn more, it would be everything! In special: C#, C++, C, JavaScript, Python, HTML and CSS.<br/>
 
-I was studying physics in college, but due to a new found love of programming, changed to Softawere Enginner and let's still see how it will go.
+My current focus is in C# and C++.<br/>
 
-Currently i know C#(My main focus and love!), HTML, C++, JavaScript, Python and Rust.<br/>
+I was studying physics in college, but due to having fallen in love with coding, changed to Software Enginnering and let's see how it will go.
+
+Languages i know: C#(My main focus and love!), C++, JavaScript, Python and Rust.<br/>
 Have dabbled in CSS, R and Ruby.<br/>
-Know some Asp.Net, Angular and Razor.
+I know Asp.Net, Angular, Razor and some react.
+Have worked with MVC, Microservices, Windows Services, Windows Sockets(Never again) and docker.
 
 - ⚡ Fun fact: I live in Brazil.
+- 🌱 I’m currently learning C++ (This time for real).
+- 🔭 I’m always working on my hobby project MagiRogue.
+- 😄 Pronouns: He/Him.
 
 ## GitHub Analytics
 <br>
