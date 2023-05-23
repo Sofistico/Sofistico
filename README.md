@@ -14,7 +14,8 @@ Here are some of the stacks i'm acquainted with: </br>
 - In addition, I possess knowledge in Asp.Net, Angular, Razor, and some React. </br>
 - Throughout my professional experience, I have worked with MVC, Microservices, Windows Services, Windows Sockets (although I'd prefer not to revisit that), and Docker.
 
-- ⚡ Fun fact: I reside in Brazil, adding a touch of vibrant diversity to my coding endeavors.
+Fun facts: </br>
+- ⚡ I reside in Brazil, adding a touch of vibrant diversity to my coding endeavors.
 - 🌱 Currently, I am wholeheartedly immersing myself in the world of C++ to further expand my skill set.
 - 🔭 My ongoing passion project is MagiRogue, which I continuously refine and enhance.
 - 😄 Pronouns: He/Him.
