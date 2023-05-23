@@ -1,25 +1,25 @@
-### Hi there 👋
-I'm a small practioner of the art of thaumaturgy, otherwise know as coding.<br/>
+### Greetings! 👋
 
-I work as a .Net Developer.<br/>
+Welcome to my GitHub profile! I am an aspiring practitioner of the enchanting art of thaumaturgy, better known as coding. As a dedicated .NET Developer, I constantly strive to master the realm of software and programming.<br/>
 
-I learned how to program in 2019 due to corona and finally having some free time in my job, so i took to learn C# and fell in love with this world of software and programming.<br/>
+My journey into the world of programming began in 2019 during the unprecedented times of the COVID-19 pandemic. Utilizing the newfound spare time in my job, I delved into learning C#, which captured my heart and ignited a passion for this captivating domain.<br/>
 
-if i had a say in what i want to learn more, it would be everything! In special: C#, C++, C, JavaScript, Python, HTML and CSS.<br/>
+If I were to choose, I would eagerly explore a plethora of programming languages, including C#, C++, C, JavaScript, Python, HTML, and CSS. However, at present, my primary focuses lie within the realms of C# and C++.<br/>
 
-My current focus is in C# and C++.<br/>
+Previously pursuid studies in physics at college, but i couldn't resist the allure of coding and subsequently transitioned to Software Engineering. I am now eagerly anticipating the exciting prospects that lie ahead in this field.<br/>
 
-I was studying physics in college, but due to having fallen in love with coding, changed to Software Enginnering and let's see how it will go.
+Here are some of the stacks i'm acquainted with: </br>
+C# (my main love and focus!), C++, JavaScript, Python, and Rust. </br>
+I have also dabbled in CSS, R, and Ruby. </br>
+In addition, I possess knowledge in Asp.Net, Angular, Razor, and some React. </br>
+Throughout my professional experience, I have worked with MVC, Microservices, Windows Services, Windows Sockets (although I'd prefer not to revisit that), and Docker. </br>
 
-Languages i know: C#(My main focus and love!), C++, JavaScript, Python and Rust.<br/>
-Have dabbled in CSS, R and Ruby.<br/>
-I know Asp.Net, Angular, Razor and some react.
-Have worked with MVC, Microservices, Windows Services, Windows Sockets(Never again) and docker.
-
-- ⚡ Fun fact: I live in Brazil.
-- 🌱 I’m currently learning C++ (This time for real).
-- 🔭 I’m always working on my hobby project MagiRogue.
+- ⚡ Fun fact: I reside in Brazil, adding a touch of vibrant diversity to my coding endeavors.
+- 🌱 Currently, I am wholeheartedly immersing myself in the world of C++ to further expand my skill set.
+- 🔭 My ongoing passion project is MagiRogue, which I continuously refine and enhance.
 - 😄 Pronouns: He/Him.
+
+Feel free to explore my repositories and witness the fusion of my passion for coding and the endless possibilities it holds. Let's embark on this exhilarating journey together!
 
 ## GitHub Analytics
 <br>
